@@ -44,11 +44,11 @@ Fork this repo, then clone it to your computer or simply download it.
 
 ## List of useful npm commands
 
-```npm i webpack webpack-cli```
-```npm i -D @babel/core @babel/preset-env babel-loader```
-```npm i -D html-webpack-plugin```
-```npm i -D clean-webpack-plugin```
-```npm i -D style-loader node-sass css-loader sass-loader```
-```npm i -D mini-css-extract-plugin```
-```npm i -D optimize-css-assets-webpack-plugin terser-webpack-plugin```
-```npm install workbox-webpack-plugin --save-dev```
+ - ```npm i webpack webpack-cli```
+ - ```npm i -D @babel/core @babel/preset-env babel-loader```
+ - ```npm i -D html-webpack-plugin```
+ - ```npm i -D clean-webpack-plugin```
+ - ```npm i -D style-loader node-sass css-loader sass-loader```
+ - ```npm i -D mini-css-extract-plugin```
+ - ```npm i -D optimize-css-assets-webpack-plugin terser-webpack-plugin```
+ - ```npm install workbox-webpack-plugin --save-dev```
